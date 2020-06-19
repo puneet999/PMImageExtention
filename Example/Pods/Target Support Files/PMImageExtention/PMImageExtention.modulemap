@@ -1,0 +1,6 @@
+framework module PMImageExtention {
+  umbrella header "PMImageExtention-umbrella.h"
+
+  export *
+  module * { export * }
+}

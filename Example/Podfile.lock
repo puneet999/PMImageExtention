@@ -1,0 +1,16 @@
+PODS:
+  - PMImageExtention (0.1.0)
+
+DEPENDENCIES:
+  - PMImageExtention (from `../`)
+
+EXTERNAL SOURCES:
+  PMImageExtention:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PMImageExtention: d9007f28f41d42e4378313652147e4a1f22073c1
+
+PODFILE CHECKSUM: 561e479bcb13794fb0e40fb4eadcd4614237fac5
+
+COCOAPODS: 1.8.4
