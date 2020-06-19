@@ -29,9 +29,10 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
+  s.swift_version       = '5.0'
 
   s.source_files = 'PMImageExtention/Classes/**/*'
-  s.frameworks = 'UIKit' ~ 'Enable only required Framework'
+  s.frameworks = 'UIKit'
   
   # s.resource_bundles = {
   #   'PMImageExtention' => ['PMImageExtention/Assets/*.png']
