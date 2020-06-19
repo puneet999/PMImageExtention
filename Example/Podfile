@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PMImageExtention_Example' do
+  pod 'PMImageExtention', :path => '../'
+
+  target 'PMImageExtention_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
